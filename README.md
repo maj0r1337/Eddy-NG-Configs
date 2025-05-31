@@ -1,6 +1,6 @@
 ## Eddy-NG-Configs
 
-# Some basic but working Configs for Vlads Eddy NG App for Sovol SV08
+## Some basic but working Configs for Vlads Eddy NG App for Sovol SV08
 
 ---------------------------------------------------------------------
 
@@ -10,4 +10,4 @@ My Project includes my Configs that i've costumized from Rappetor's [Mainline Kl
 
 I've merged Nadirs Eddy NG Macros in to my Configs. You'l find  [Nadirs original Post on Printables](https://www.printables.com/model/1269473-btt-eddy-ng-macro-my-print-start-on-my-sv08).
 
-# I'd like to thank Vlad, Rappetor and Nadir for their great Work!
+## I'd like to thank Vlad, Rappetor and Nadir for their great Work!
