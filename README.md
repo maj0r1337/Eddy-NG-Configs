@@ -1,9 +1,10 @@
 ## Eddy-NG-Configs
+
 # Some basic but working Configs for Vlads Eddy NG App for Sovol SV08
 
 ---------------------------------------------------------------------
 
-[ALL CREDITS TO VLAD AND HIS GREAT PROJECT!](https://github.com/vvuk/eddy-ng). PLZ BUY HIM A COFFE
+[ALL CREDITS TO VLAD AND HIS GREAT PROJECT!](https://github.com/vvuk/eddy-ng). PLZ SUPPORT HIM AND HIS ALIEXPRESS HABITS ;)
 
 My Project includes my Configs that i've costumized from Rappetor's [Mainline Klipper Repo](https://github.com/Rappetor/Sovol-SV08-Mainline).
 
