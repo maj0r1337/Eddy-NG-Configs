@@ -12,4 +12,4 @@ I've merged Nadirs Eddy NG Macros in to my Configs. You'l find  [Nadirs original
 
 ## I'd like to thank Vlad, Rappetor and Nadir for their great Work!
 
-[![IMAGE ALT TEXT HERE](https://i3.ytimg.com/vi/4r2YzVSAbks/maxresdefault.jpg)](https://youtu.be/4r2YzVSAbks)
+[![Sovol SV08 Eddy NG Tap installieren [GER]](https://i3.ytimg.com/vi/4r2YzVSAbks/maxresdefault.jpg)](https://youtu.be/4r2YzVSAbks)
