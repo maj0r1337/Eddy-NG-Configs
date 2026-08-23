@@ -21,7 +21,7 @@ I've merged Nadirs Eddy NG Macros in to my Configs. You'll find  [Nadirs origina
 - Connect to your SV08 via FTP. The FTP port is 22, the username and password are "biqu".
 - Go to the eddy-ng directory (/home/biqu/eddy-ng) and back up the original probe_eddy_ng.py file safely to your PC.
 - Now, drag and drop my probe_eddy_ng.py file into the open directory on the FTP Client (/home/biqu/eddy-ng), overwrite the existing file.
-- Restart the Printer via yoru Fluid browser interface.
+- Reboot the printer, done!
 
 Congratulations! Your SV08 will now lower his print head from over 7 cm down to just above the build plate again, correctly calculating the true zero position.
 
