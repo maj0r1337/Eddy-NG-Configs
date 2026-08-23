@@ -20,8 +20,9 @@ I've merged Nadirs Eddy NG Macros in to my Configs. You'll find  [Nadirs origina
 - Download the Z-offset Python script from the folder above and save it to your desktop.
 - Connect to your SV08 via FTP. The FTP port is 22, the username and password are "biqu".
 - Go to the eddy-ng directory (/home/biqu/eddy-ng) and back up the original probe_eddy_ng.py file safely to your PC.
-- Now, drag and drop my probe_eddy_ng.py file into the open directory on the FTP Client, overwrite the existing file.
+- Now, drag and drop my probe_eddy_ng.py file into the open directory on the FTP Client (/home/biqu/eddy-ng), overwrite the existing file.
+- Restart the Printer via yoru Fluid browser interface.
 
-Congratulations! Your SV08 will now lower from over 7 cm down to just above the build plate again, correctly calculating the true zero position.
+Congratulations! Your SV08 will now lower his print head from over 7 cm down to just above the build plate again, correctly calculating the true zero position.
 
 ### This fix is not my work! All credits are going to [RagDolini](https://github.com/vvuk/eddy-ng/issues/146#issuecomment-4628777151)
