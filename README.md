@@ -27,4 +27,4 @@ Congratulations! Your SV08 will now lower his print head from over 7 cm down to 
 
 ### This fix is not my work! All credits are going to [RagDollino](https://github.com/vvuk/eddy-ng/issues/146#issuecomment-4628777151) and [Lupolima](https://github.com/vvuk/eddy-ng/issues/153#issuecomment-5376480786)
 
-###One small Hint at the end, you need to reapply this fix, every time you update vuuk's eddy-ng script until he build it into his repo.
+### One small Hint at the end, you need to reapply this fix, every time you update vuuk's eddy-ng script until he build it into his repo.
